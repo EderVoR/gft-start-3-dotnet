@@ -6,6 +6,24 @@
         Adicionar20(a);
         Console.WriteLine($"O valor da variavel a é {a}");
     }
+
+    public static void Demo2()
+    {
+        Pessoa p = new Pessoa();
+
+        p.Nome = "Eder";
+        p.Idade = 33;
+        p.Documento = "1487016";
+
+        Pessoa p2 = p.Clone();
+
+        TrocarNome(p, "Matheus");
+
+        Console.WriteLine($@"
+            O nome de p é {p.Nome}
+            O nome de p2 é {p2.Nome}
+            ");
+    }
     static void Adicionar20(int a)
     {
         a = a + 20;        
@@ -14,17 +32,29 @@
     {
         p.Nome = NovoNome;
     }
+
+    static StructPessoa TrocarNome(StructPessoa p, string NovoNome)
+    {
+        p.Nome = NovoNome;
+        return p;
+    }
     public static void Main()
     {
-        Pessoa p = new Pessoa();
+        StructPessoa p1 = new StructPessoa()
+        {
+            Documento = "123",
+            Nome = "Eder",
+            Idade = 33
+        };
 
-        p.Nome = "Eder";
-        p.Idade = 33;
-        p.Documento = "1487016";
+        var p2 = p1;
 
-        TrocarNome(p, "Matheus");
+        p1 = TrocarNome(p1, "Thiago");
 
-        Console.WriteLine($"O novo nome é {p.Nome}");
+        Console.WriteLine($@"
+                            O nome de p1 é: {p1.Nome}
+                            O nome de p2 é: {p2.Nome}
+                        ");
 
     }
 }
