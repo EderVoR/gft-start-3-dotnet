@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\Demos\bin\Debug\net6.0\Demos.exe
+C:\workspace\gft-start-3-dotnet\Demos\bin\Debug\net6.0\Demos.deps.json
+C:\workspace\gft-start-3-dotnet\Demos\bin\Debug\net6.0\Demos.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\Demos\bin\Debug\net6.0\Demos.dll
+C:\workspace\gft-start-3-dotnet\Demos\bin\Debug\net6.0\ref\Demos.dll
+C:\workspace\gft-start-3-dotnet\Demos\bin\Debug\net6.0\Demos.pdb
+C:\workspace\gft-start-3-dotnet\Demos\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\Demos\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\Demos\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\Demos\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\Demos\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\Demos\obj\Debug\net6.0\Demos.dll
+C:\workspace\gft-start-3-dotnet\Demos\obj\Debug\net6.0\ref\Demos.dll
+C:\workspace\gft-start-3-dotnet\Demos\obj\Debug\net6.0\Demos.pdb
+C:\workspace\gft-start-3-dotnet\Demos\obj\Debug\net6.0\Demos.genruntimeconfig.cache
