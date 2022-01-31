@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\aula-3-demos\bin\Debug\net6.0\gft-start-3-dotnet.exe
+C:\workspace\gft-start-3-dotnet\aula-3-demos\bin\Debug\net6.0\gft-start-3-dotnet.deps.json
+C:\workspace\gft-start-3-dotnet\aula-3-demos\bin\Debug\net6.0\gft-start-3-dotnet.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\aula-3-demos\bin\Debug\net6.0\gft-start-3-dotnet.dll
+C:\workspace\gft-start-3-dotnet\aula-3-demos\bin\Debug\net6.0\ref\gft-start-3-dotnet.dll
+C:\workspace\gft-start-3-dotnet\aula-3-demos\bin\Debug\net6.0\gft-start-3-dotnet.pdb
+C:\workspace\gft-start-3-dotnet\aula-3-demos\obj\Debug\net6.0\gft-start-3-dotnet.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\aula-3-demos\obj\Debug\net6.0\gft-start-3-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\aula-3-demos\obj\Debug\net6.0\gft-start-3-dotnet.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\aula-3-demos\obj\Debug\net6.0\gft-start-3-dotnet.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\aula-3-demos\obj\Debug\net6.0\gft-start-3-dotnet.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\aula-3-demos\obj\Debug\net6.0\gft-start-3-dotnet.dll
+C:\workspace\gft-start-3-dotnet\aula-3-demos\obj\Debug\net6.0\ref\gft-start-3-dotnet.dll
+C:\workspace\gft-start-3-dotnet\aula-3-demos\obj\Debug\net6.0\gft-start-3-dotnet.pdb
+C:\workspace\gft-start-3-dotnet\aula-3-demos\obj\Debug\net6.0\gft-start-3-dotnet.genruntimeconfig.cache
