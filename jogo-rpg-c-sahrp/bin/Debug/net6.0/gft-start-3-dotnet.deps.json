@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gft-start-3-dotnet/1.0.0": {
+        "runtime": {
+          "gft-start-3-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gft-start-3-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qmjl5wIKFuDfFAbphAVXcFx1oQ14Q+rP2l51s01/jqYoDzj3wLNPJPD8N7gbbqoT+5BT20TqyPcDJjxrzg+BOQ==",
+  "dgSpecHash": "K9lSyprQfKBhllLo/2rX1zgqhlavqrf2td8Y9eP4n8pZWedFjx0gFtnnxrCoztCrE9GBhiajy87x73evqnYKRw==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\gft-start-3-dotnet\\gft-start-3-dotnet.csproj",
+  "projectFilePath": "C:\\workspace\\gft-start-3-dotnet\\jogo-rpg-c-sahrp\\gft-start-3-dotnet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
