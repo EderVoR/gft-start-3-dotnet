@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\LerDiretorios\bin\Debug\net6.0\LerDiretorios.exe
+C:\workspace\gft-start-3-dotnet\LerDiretorios\bin\Debug\net6.0\LerDiretorios.deps.json
+C:\workspace\gft-start-3-dotnet\LerDiretorios\bin\Debug\net6.0\LerDiretorios.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\LerDiretorios\bin\Debug\net6.0\LerDiretorios.dll
+C:\workspace\gft-start-3-dotnet\LerDiretorios\bin\Debug\net6.0\ref\LerDiretorios.dll
+C:\workspace\gft-start-3-dotnet\LerDiretorios\bin\Debug\net6.0\LerDiretorios.pdb
+C:\workspace\gft-start-3-dotnet\LerDiretorios\obj\Debug\net6.0\LerDiretorios.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\LerDiretorios\obj\Debug\net6.0\LerDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\LerDiretorios\obj\Debug\net6.0\LerDiretorios.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\LerDiretorios\obj\Debug\net6.0\LerDiretorios.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\LerDiretorios\obj\Debug\net6.0\LerDiretorios.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\LerDiretorios\obj\Debug\net6.0\LerDiretorios.dll
+C:\workspace\gft-start-3-dotnet\LerDiretorios\obj\Debug\net6.0\ref\LerDiretorios.dll
+C:\workspace\gft-start-3-dotnet\LerDiretorios\obj\Debug\net6.0\LerDiretorios.pdb
+C:\workspace\gft-start-3-dotnet\LerDiretorios\obj\Debug\net6.0\LerDiretorios.genruntimeconfig.cache
