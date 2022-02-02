@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\bin\Debug\net6.0\directory_and_directoryinfo.exe
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\bin\Debug\net6.0\directory_and_directoryinfo.deps.json
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\bin\Debug\net6.0\directory_and_directoryinfo.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\bin\Debug\net6.0\directory_and_directoryinfo.dll
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\bin\Debug\net6.0\ref\directory_and_directoryinfo.dll
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\bin\Debug\net6.0\directory_and_directoryinfo.pdb
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\obj\Debug\net6.0\directory_and_directoryinfo.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\obj\Debug\net6.0\directory_and_directoryinfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\obj\Debug\net6.0\directory_and_directoryinfo.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\obj\Debug\net6.0\directory_and_directoryinfo.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\obj\Debug\net6.0\directory_and_directoryinfo.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\obj\Debug\net6.0\directory_and_directoryinfo.dll
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\obj\Debug\net6.0\ref\directory_and_directoryinfo.dll
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\obj\Debug\net6.0\directory_and_directoryinfo.pdb
+C:\workspace\gft-start-3-dotnet\directory_and_directoryinfo\obj\Debug\net6.0\directory_and_directoryinfo.genruntimeconfig.cache
