@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\file_fileinfo\bin\Debug\net6.0\file_fileinfo.exe
+C:\workspace\gft-start-3-dotnet\file_fileinfo\bin\Debug\net6.0\file_fileinfo.deps.json
+C:\workspace\gft-start-3-dotnet\file_fileinfo\bin\Debug\net6.0\file_fileinfo.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\file_fileinfo\bin\Debug\net6.0\file_fileinfo.dll
+C:\workspace\gft-start-3-dotnet\file_fileinfo\bin\Debug\net6.0\ref\file_fileinfo.dll
+C:\workspace\gft-start-3-dotnet\file_fileinfo\bin\Debug\net6.0\file_fileinfo.pdb
+C:\workspace\gft-start-3-dotnet\file_fileinfo\obj\Debug\net6.0\file_fileinfo.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\file_fileinfo\obj\Debug\net6.0\file_fileinfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\file_fileinfo\obj\Debug\net6.0\file_fileinfo.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\file_fileinfo\obj\Debug\net6.0\file_fileinfo.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\file_fileinfo\obj\Debug\net6.0\file_fileinfo.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\file_fileinfo\obj\Debug\net6.0\file_fileinfo.dll
+C:\workspace\gft-start-3-dotnet\file_fileinfo\obj\Debug\net6.0\ref\file_fileinfo.dll
+C:\workspace\gft-start-3-dotnet\file_fileinfo\obj\Debug\net6.0\file_fileinfo.pdb
+C:\workspace\gft-start-3-dotnet\file_fileinfo\obj\Debug\net6.0\file_fileinfo.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RFql6LGnYJ7T22/lCiwcsDN8/7yyzvZ8gGxbFU/lJR7tVubrXN0gFU6UrBgfVta7TJRZyIU2xf/QHz5P5pA1tg==",
+  "dgSpecHash": "QxheyK54rREnmIH+GT+im07I+9xrMAJ1OYYu1gw2Vj3A2O14MAyBXGsk142wbPKlRiOPMduf2bS5Izllp8f6dQ==",
   "success": true,
-  "projectFilePath": "c:\\workspace\\gft-start-3-dotnet\\file_fileinfo\\file_fileinfo.csproj",
+  "projectFilePath": "C:\\workspace\\gft-start-3-dotnet\\file_fileinfo\\file_fileinfo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
