@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\Csv_Stream\bin\Debug\net6.0\Csv_Stream.exe
+C:\workspace\gft-start-3-dotnet\Csv_Stream\bin\Debug\net6.0\Csv_Stream.deps.json
+C:\workspace\gft-start-3-dotnet\Csv_Stream\bin\Debug\net6.0\Csv_Stream.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\Csv_Stream\bin\Debug\net6.0\Csv_Stream.dll
+C:\workspace\gft-start-3-dotnet\Csv_Stream\bin\Debug\net6.0\ref\Csv_Stream.dll
+C:\workspace\gft-start-3-dotnet\Csv_Stream\bin\Debug\net6.0\Csv_Stream.pdb
+C:\workspace\gft-start-3-dotnet\Csv_Stream\obj\Debug\net6.0\Csv_Stream.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\Csv_Stream\obj\Debug\net6.0\Csv_Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\Csv_Stream\obj\Debug\net6.0\Csv_Stream.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\Csv_Stream\obj\Debug\net6.0\Csv_Stream.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\Csv_Stream\obj\Debug\net6.0\Csv_Stream.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\Csv_Stream\obj\Debug\net6.0\Csv_Stream.dll
+C:\workspace\gft-start-3-dotnet\Csv_Stream\obj\Debug\net6.0\ref\Csv_Stream.dll
+C:\workspace\gft-start-3-dotnet\Csv_Stream\obj\Debug\net6.0\Csv_Stream.pdb
+C:\workspace\gft-start-3-dotnet\Csv_Stream\obj\Debug\net6.0\Csv_Stream.genruntimeconfig.cache
