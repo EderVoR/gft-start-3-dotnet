@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\bin\Debug\net6.0\File_System_Watcher.exe
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\bin\Debug\net6.0\File_System_Watcher.deps.json
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\bin\Debug\net6.0\File_System_Watcher.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\bin\Debug\net6.0\File_System_Watcher.dll
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\bin\Debug\net6.0\ref\File_System_Watcher.dll
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\bin\Debug\net6.0\File_System_Watcher.pdb
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.dll
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\obj\Debug\net6.0\ref\File_System_Watcher.dll
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.pdb
+C:\workspace\gft-start-3-dotnet\File_System_Watcher\obj\Debug\net6.0\File_System_Watcher.genruntimeconfig.cache
