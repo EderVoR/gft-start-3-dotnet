@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\String_Writer\bin\Debug\net6.0\String_Writer.exe
+C:\workspace\gft-start-3-dotnet\String_Writer\bin\Debug\net6.0\String_Writer.deps.json
+C:\workspace\gft-start-3-dotnet\String_Writer\bin\Debug\net6.0\String_Writer.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\String_Writer\bin\Debug\net6.0\String_Writer.dll
+C:\workspace\gft-start-3-dotnet\String_Writer\bin\Debug\net6.0\ref\String_Writer.dll
+C:\workspace\gft-start-3-dotnet\String_Writer\bin\Debug\net6.0\String_Writer.pdb
+C:\workspace\gft-start-3-dotnet\String_Writer\obj\Debug\net6.0\String_Writer.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\String_Writer\obj\Debug\net6.0\String_Writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\String_Writer\obj\Debug\net6.0\String_Writer.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\String_Writer\obj\Debug\net6.0\String_Writer.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\String_Writer\obj\Debug\net6.0\String_Writer.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\String_Writer\obj\Debug\net6.0\String_Writer.dll
+C:\workspace\gft-start-3-dotnet\String_Writer\obj\Debug\net6.0\ref\String_Writer.dll
+C:\workspace\gft-start-3-dotnet\String_Writer\obj\Debug\net6.0\String_Writer.pdb
+C:\workspace\gft-start-3-dotnet\String_Writer\obj\Debug\net6.0\String_Writer.genruntimeconfig.cache
