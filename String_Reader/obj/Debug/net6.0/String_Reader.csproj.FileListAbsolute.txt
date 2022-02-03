@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\String_Reader\bin\Debug\net6.0\String_Reader.exe
+C:\workspace\gft-start-3-dotnet\String_Reader\bin\Debug\net6.0\String_Reader.deps.json
+C:\workspace\gft-start-3-dotnet\String_Reader\bin\Debug\net6.0\String_Reader.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\String_Reader\bin\Debug\net6.0\String_Reader.dll
+C:\workspace\gft-start-3-dotnet\String_Reader\bin\Debug\net6.0\ref\String_Reader.dll
+C:\workspace\gft-start-3-dotnet\String_Reader\bin\Debug\net6.0\String_Reader.pdb
+C:\workspace\gft-start-3-dotnet\String_Reader\obj\Debug\net6.0\String_Reader.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\String_Reader\obj\Debug\net6.0\String_Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\String_Reader\obj\Debug\net6.0\String_Reader.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\String_Reader\obj\Debug\net6.0\String_Reader.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\String_Reader\obj\Debug\net6.0\String_Reader.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\String_Reader\obj\Debug\net6.0\String_Reader.dll
+C:\workspace\gft-start-3-dotnet\String_Reader\obj\Debug\net6.0\ref\String_Reader.dll
+C:\workspace\gft-start-3-dotnet\String_Reader\obj\Debug\net6.0\String_Reader.pdb
+C:\workspace\gft-start-3-dotnet\String_Reader\obj\Debug\net6.0\String_Reader.genruntimeconfig.cache
