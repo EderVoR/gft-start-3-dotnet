@@ -2,8 +2,9 @@
 
 public class Program
 {
-    public static void Main(String[] args)
+    public static void Main(String[] args)    
     {
+        CriarCsv();
         var path = Path.Combine(Environment.CurrentDirectory, "Entrada", "usuario-exportado.csv");
         if(File.Exists(path))
         {
@@ -31,5 +32,49 @@ public class Program
         }
             Console.WriteLine("\n\nPrecione [enter] para finalizar.....");
             Console.ReadLine();
+
+        static void CriarCsv()
+        {
+            var path = Path.Combine(Environment.CurrentDirectory, "Saida");    
+            var pessoas = new List<Pessoa>()
+            {
+                new Pessoa()
+                {
+                    Nome = "Jose da Silva",
+                    Email = "js@gmail.com",
+                    Telefone = 12345678,
+                    Nascimento = new DateOnly(year: 1988, month: 1, day: 30)
+                },
+                new Pessoa()
+                {
+                    Nome = "Deivison Ribeiro",
+                    Email = "dr@hotmail.com",
+                    Telefone = 789456123,
+                    Nascimento = new DateOnly(year: 1989, month: 1, day: 20)
+                }
+            };
+            
+            var di = new DirectoryInfo(path);
+            if(!di.Exists)
+            {
+                di.Create();
+                path = Path.Combine(path, "usuario.csv");
+            }
+
+            using var sw = new StreamWriter(path);
+            sw.WriteLine("nome,email,telefone,nascimento");
+            foreach (var pessoa in pessoas)
+            {
+                var linha = $"{pessoa.Nome},{pessoa.Email},{pessoa.Telefone},{pessoa.Nascimento}";
+                sw.WriteLine(linha);
+            }
+        }        
     }
+}
+class Pessoa
+{
+    public string Nome {get;set;}
+    public string Email {get; set;}
+    public int Telefone {get;set;}
+    public DateOnly Nascimento {get;set;}
 }
