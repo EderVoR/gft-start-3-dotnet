@@ -1,0 +1,17 @@
+C:\workspace\gft-start-3-dotnet\Csv_Helper\bin\Debug\net6.0\Csv_Helper.exe
+C:\workspace\gft-start-3-dotnet\Csv_Helper\bin\Debug\net6.0\Csv_Helper.deps.json
+C:\workspace\gft-start-3-dotnet\Csv_Helper\bin\Debug\net6.0\Csv_Helper.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\Csv_Helper\bin\Debug\net6.0\Csv_Helper.dll
+C:\workspace\gft-start-3-dotnet\Csv_Helper\bin\Debug\net6.0\ref\Csv_Helper.dll
+C:\workspace\gft-start-3-dotnet\Csv_Helper\bin\Debug\net6.0\Csv_Helper.pdb
+C:\workspace\gft-start-3-dotnet\Csv_Helper\bin\Debug\net6.0\CsvHelper.dll
+C:\workspace\gft-start-3-dotnet\Csv_Helper\obj\Debug\net6.0\Csv_Helper.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\Csv_Helper\obj\Debug\net6.0\Csv_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\Csv_Helper\obj\Debug\net6.0\Csv_Helper.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\Csv_Helper\obj\Debug\net6.0\Csv_Helper.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\Csv_Helper\obj\Debug\net6.0\Csv_Helper.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\Csv_Helper\obj\Debug\net6.0\Csv_Helper.csproj.CopyComplete
+C:\workspace\gft-start-3-dotnet\Csv_Helper\obj\Debug\net6.0\Csv_Helper.dll
+C:\workspace\gft-start-3-dotnet\Csv_Helper\obj\Debug\net6.0\ref\Csv_Helper.dll
+C:\workspace\gft-start-3-dotnet\Csv_Helper\obj\Debug\net6.0\Csv_Helper.pdb
+C:\workspace\gft-start-3-dotnet\Csv_Helper\obj\Debug\net6.0\Csv_Helper.genruntimeconfig.cache

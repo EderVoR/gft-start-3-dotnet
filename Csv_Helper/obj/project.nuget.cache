@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBX831s0AltLiPapzLMjF5w2MjxfkcRQVjLwBsVt+l/SgpD1e/VDYuxPV3ZNfDy56tgZ1dq4bag02/EumHikCQ==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\gft-start-3-dotnet\\Csv_Helper\\Csv_Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eder_\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
