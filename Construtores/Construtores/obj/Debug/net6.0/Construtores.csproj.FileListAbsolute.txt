@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\bin\Debug\net6.0\Construtores.exe
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\bin\Debug\net6.0\Construtores.deps.json
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\bin\Debug\net6.0\Construtores.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\bin\Debug\net6.0\Construtores.dll
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\bin\Debug\net6.0\ref\Construtores.dll
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\bin\Debug\net6.0\Construtores.pdb
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\obj\Debug\net6.0\Construtores.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\obj\Debug\net6.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\obj\Debug\net6.0\Construtores.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\obj\Debug\net6.0\Construtores.dll
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\obj\Debug\net6.0\ref\Construtores.dll
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\obj\Debug\net6.0\Construtores.pdb
+C:\workspace\gft-start-3-dotnet\Construtores\Construtores\obj\Debug\net6.0\Construtores.genruntimeconfig.cache
