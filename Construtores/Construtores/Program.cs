@@ -3,12 +3,22 @@ using Construtores.Models;
 
 public class Program
 {
+    public delegate void Operacao(int x, int y);
     public static void Main(String[] args)
     {
-        Data data = new Data();
-        data.SetMes(20);
+        //Delegate e suas funções
+        //Operacao op = Calculadora.Somar; <- Outra forma de chamar o delegate
+        Operacao op = new Operacao(Calculadora.Somar);
+        op += Calculadora.Subtrair; //<- Mult Cast para que o delegate execute mais de um metodo
+        //op(10, 10); <- Uma Forma de chamar o delegate
+        op.Invoke(10, 10);
 
-        data.ApresentarMes();
+
+        // Get e Set
+        // Data data = new Data();
+        // data.SetMes(20);
+        // data.ApresentarMes();
+
         // Tratamento de Construtor privado
         // Log log = Log.GetInstance();
         // log.PropriedadeLog = "teste de isntancia";
