@@ -5,11 +5,17 @@ public class Program
 {
     public static void Main(String[] args)
     {
-        Pessoa p1 = new Pessoa();
+            Retangulo r = new Retangulo();
+            r.DefinirMedidas(30, 30);
+            Console.WriteLine($"Área: {r.ObterArea()}");
 
-        p1.Nome = "Eder";
-        p1.Idade = 34;
+            Retangulo r2 = new Retangulo();
+            r2.DefinirMedidas(-30, 30);
+            Console.WriteLine($"Área: {r2.ObterArea()}");
 
-        p1.Apresentar();
+        // Pessoa p1 = new Pessoa();
+        // p1.Nome = "Eder";
+        // p1.Idade = 34;
+        // p1.Apresentar();
     }
 }
