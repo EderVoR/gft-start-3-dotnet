@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\bin\Debug\net6.0\ExemplosColecoes.exe
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\bin\Debug\net6.0\ExemplosColecoes.deps.json
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\bin\Debug\net6.0\ExemplosColecoes.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\bin\Debug\net6.0\ExemplosColecoes.dll
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\bin\Debug\net6.0\ref\ExemplosColecoes.dll
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\bin\Debug\net6.0\ExemplosColecoes.pdb
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\obj\Debug\net6.0\ExemplosColecoes.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\obj\Debug\net6.0\ExemplosColecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\obj\Debug\net6.0\ExemplosColecoes.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\obj\Debug\net6.0\ExemplosColecoes.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\obj\Debug\net6.0\ExemplosColecoes.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\obj\Debug\net6.0\ExemplosColecoes.dll
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\obj\Debug\net6.0\ref\ExemplosColecoes.dll
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\obj\Debug\net6.0\ExemplosColecoes.pdb
+C:\workspace\gft-start-3-dotnet\ExemplosColecoes\ExemplosColecoes\obj\Debug\net6.0\ExemplosColecoes.genruntimeconfig.cache
