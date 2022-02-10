@@ -7,17 +7,39 @@ public class Program
 {
     public static void Main(String[] args)
     {
-        Dictionary<string, string> estados = new Dictionary<string, string>();
-        estados.Add("SP", "São Paulo");
-        estados.Add("MG", "Minas Gerais");
-        estados.Add("SC", "Santa Catarina");        
-        string valorProcurado = "SP";
-        Console.WriteLine($"{estados[valorProcurado]}");
-        estados.Remove("SP");    
-        foreach (KeyValuePair<string, string> item in estados)
-        {
-            Console.WriteLine($"Chave {item.Key}, Valor {item.Value}");
-        }
+        int[] arrayNumbers = new int[] {100, 1, 4, 19, 8, 15, 19, 4, 100};
+
+        var min = arrayNumbers.Min();
+        var max = arrayNumbers.Max();
+        var media = arrayNumbers.Average();
+        var total = arrayNumbers.Sum();
+        var distinto = arrayNumbers.Distinct();
+
+        Console.WriteLine($"\n Min: {min}, Max: {max}, Media: {media}");
+        Console.WriteLine($"\n Soma: {total}, distinct: {string.Join(", ", distinto)}\n");
+
+        var numerosParesQuery = 
+            from num in arrayNumbers
+            where num % 2 == 0
+            orderby num
+            select num;
+
+        var numerosParesMetodo = arrayNumbers.Where(x => x % 2 == 0).OrderBy(x => x).ToList();
+
+        Console.WriteLine($"Query {string.Join(", ", numerosParesQuery)}");
+        Console.WriteLine($"Metodos {string.Join(", ", numerosParesMetodo)}");
+
+        // Dictionary<string, string> estados = new Dictionary<string, string>();
+        // estados.Add("SP", "São Paulo");
+        // estados.Add("MG", "Minas Gerais");
+        // estados.Add("SC", "Santa Catarina");        
+        // string valorProcurado = "SP";
+        // Console.WriteLine($"{estados[valorProcurado]}");
+        // estados.Remove("SP");    
+        // foreach (KeyValuePair<string, string> item in estados)
+        // {
+        //     Console.WriteLine($"Chave {item.Key}, Valor {item.Value}");
+        // }
 
         // Stack<string> pilhaLivros = new Stack<string>();
         // pilhaLivros.Push(".NET");
