@@ -7,16 +7,27 @@ public class Program
 {
     public static void Main(String[] args)
     {
-        Stack<string> pilhaLivros = new Stack<string>();
-        pilhaLivros.Push(".NET");
-        pilhaLivros.Push("Java");
-        pilhaLivros.Push("SQL Server");
-
-        while(pilhaLivros.Count > 0)
+        Dictionary<string, string> estados = new Dictionary<string, string>();
+        estados.Add("SP", "São Paulo");
+        estados.Add("MG", "Minas Gerais");
+        estados.Add("SC", "Santa Catarina");        
+        string valorProcurado = "SP";
+        Console.WriteLine($"{estados[valorProcurado]}");
+        estados.Remove("SP");    
+        foreach (KeyValuePair<string, string> item in estados)
         {
-            Console.WriteLine($"Próximo livro a ser lido: {pilhaLivros.Peek()}");
-            Console.WriteLine($"{pilhaLivros.Pop()}  lido com sucesso.");
+            Console.WriteLine($"Chave {item.Key}, Valor {item.Value}");
         }
+
+        // Stack<string> pilhaLivros = new Stack<string>();
+        // pilhaLivros.Push(".NET");
+        // pilhaLivros.Push("Java");
+        // pilhaLivros.Push("SQL Server");
+        // while(pilhaLivros.Count > 0)
+        // {
+        //     Console.WriteLine($"Próximo livro a ser lido: {pilhaLivros.Peek()}");
+        //     Console.WriteLine($"{pilhaLivros.Pop()}  lido com sucesso.");
+        // }
 
         // Queue<string> fila = new Queue<string>();
         // fila.Enqueue("Eder");
