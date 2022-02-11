@@ -1,0 +1,15 @@
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\obj\Debug\net6.0\ConsoleException.csproj.AssemblyReference.cache
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\obj\Debug\net6.0\ConsoleException.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\obj\Debug\net6.0\ConsoleException.AssemblyInfoInputs.cache
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\obj\Debug\net6.0\ConsoleException.AssemblyInfo.cs
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\obj\Debug\net6.0\ConsoleException.csproj.CoreCompileInputs.cache
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\bin\Debug\net6.0\ConsoleException.exe
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\bin\Debug\net6.0\ConsoleException.deps.json
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\bin\Debug\net6.0\ConsoleException.runtimeconfig.json
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\bin\Debug\net6.0\ConsoleException.dll
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\bin\Debug\net6.0\ref\ConsoleException.dll
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\bin\Debug\net6.0\ConsoleException.pdb
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\obj\Debug\net6.0\ConsoleException.dll
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\obj\Debug\net6.0\ref\ConsoleException.dll
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\obj\Debug\net6.0\ConsoleException.pdb
+C:\workspace\gft-start-3-dotnet\ConsoleException\ConsoleException\obj\Debug\net6.0\ConsoleException.genruntimeconfig.cache
