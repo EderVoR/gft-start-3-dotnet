@@ -6,7 +6,6 @@ C:\workspace\gft-start-3-dotnet\curso\curso.api\bin\Debug\netcoreapp3.1\curso.ap
 C:\workspace\gft-start-3-dotnet\curso\curso.api\bin\Debug\netcoreapp3.1\curso.api.runtimeconfig.dev.json
 C:\workspace\gft-start-3-dotnet\curso\curso.api\bin\Debug\netcoreapp3.1\curso.api.dll
 C:\workspace\gft-start-3-dotnet\curso\curso.api\bin\Debug\netcoreapp3.1\curso.api.pdb
-C:\workspace\gft-start-3-dotnet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.csproj.AssemblyReference.cache
 C:\workspace\gft-start-3-dotnet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.GeneratedMSBuildEditorConfig.editorconfig
 C:\workspace\gft-start-3-dotnet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.AssemblyInfoInputs.cache
 C:\workspace\gft-start-3-dotnet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.AssemblyInfo.cs
@@ -17,3 +16,4 @@ C:\workspace\gft-start-3-dotnet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.ap
 C:\workspace\gft-start-3-dotnet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.dll
 C:\workspace\gft-start-3-dotnet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.pdb
 C:\workspace\gft-start-3-dotnet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.genruntimeconfig.cache
+C:\workspace\gft-start-3-dotnet\curso\curso.api\bin\Debug\netcoreapp3.1\curso.api.xml

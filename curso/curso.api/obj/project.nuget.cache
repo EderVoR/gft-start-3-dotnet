@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "FOThrXmJwuaIuKMU0nOcUsKXTLDIPeefX+URtrOMlfv9FRd/LduFkScQvNP8F9Hh7VmNz5BB63+4vewwMusJ9A==",
+  "dgSpecHash": "4Z7hPzfejgjPSqLflVuJn78YDKB5Kq+BPQQWvh6wLza1zBHAHt5BvX0n4InHsge6I6z7T+q1+Kdbv6sF162Rvw==",
   "success": true,
   "projectFilePath": "C:\\workspace\\gft-start-3-dotnet\\curso\\curso.api\\curso.api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eder_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\eder_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\eder_\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\eder_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\eder_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\eder_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
   "logs": []
 }

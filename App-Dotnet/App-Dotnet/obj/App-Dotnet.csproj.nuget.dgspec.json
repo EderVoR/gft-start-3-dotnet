@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\gft-start-3-dotnet\\curso\\curso.api\\curso.api.csproj": {}
+    "C:\\workspace\\gft-start-3-dotnet\\App-Dotnet\\App-Dotnet\\App-Dotnet.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\gft-start-3-dotnet\\curso\\curso.api\\curso.api.csproj": {
+    "C:\\workspace\\gft-start-3-dotnet\\App-Dotnet\\App-Dotnet\\App-Dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\gft-start-3-dotnet\\curso\\curso.api\\curso.api.csproj",
-        "projectName": "curso.api",
-        "projectPath": "C:\\workspace\\gft-start-3-dotnet\\curso\\curso.api\\curso.api.csproj",
+        "projectUniqueName": "C:\\workspace\\gft-start-3-dotnet\\App-Dotnet\\App-Dotnet\\App-Dotnet.csproj",
+        "projectName": "App-Dotnet",
+        "projectPath": "C:\\workspace\\gft-start-3-dotnet\\App-Dotnet\\App-Dotnet\\App-Dotnet.csproj",
         "packagesPath": "C:\\Users\\eder_\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\gft-start-3-dotnet\\curso\\curso.api\\obj\\",
+        "outputPath": "C:\\workspace\\gft-start-3-dotnet\\App-Dotnet\\App-Dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,14 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -60,9 +54,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
