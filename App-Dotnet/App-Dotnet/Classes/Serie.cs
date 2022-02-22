@@ -25,6 +25,7 @@ namespace App_Dotnet
             retorno  += "Título: " + this.Titulo + Environment.NewLine;
             retorno  += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno  += "Ano de Inicio: " + this.Ano + Environment.NewLine;
+            retorno  += "Exluido: " + this.Excluido;
             return retorno;
         }
 
@@ -36,6 +37,11 @@ namespace App_Dotnet
         public int RetornaId()
         {
             return this.Id;
+        }
+
+        public bool RetornaExcluido()
+        {
+            return this.Excluido;
         }
 
         public void Excluir()
